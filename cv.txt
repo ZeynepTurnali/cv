@@ -1,1 +1,9 @@
-Zeynep Turnalı / Test Automation Engineer
+Zeynep Turnalı 
+
+-- Education 
+Mathematical Engineer
+Yıldız Technical University
+
+-- Work Experience
+Test Automation Engineer
+Saha BT / Testinium
